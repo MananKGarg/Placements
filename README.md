@@ -8,6 +8,7 @@
 ### Dynamic Programming
 
 - [ ] [790. Domino Tromino Tiling](https://github.com/MananKGarg/Placements/blob/main/Leetcode%20Solutions/790.%20Domino%20Tromino%20Tiling.pdf)
+- [ ] [70. Climbing Stairs](https://github.com/MananKGarg/Placements/blob/main/Leetcode%20Solutions/70.%20Climbing%20Stairs.pdf)
 
 ### Arrays
 
