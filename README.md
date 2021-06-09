@@ -12,6 +12,6 @@
 ### Arrays
 
 - [ ] [169. Majority Element](https://github.com/MananKGarg/Placements/blob/main/Leetcode%20Solutions/169.%20Majority%20Element.pdf)
-
+- [ ] [1. Two Sum](https://github.com/MananKGarg/Placements/blob/main/Leetcode%20Solutions/1.%20Two%20Sum.pdf)
 
 
