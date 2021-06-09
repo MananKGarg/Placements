@@ -8,3 +8,10 @@
 ### Dynamic Programming
 
 - [ ] [790. Domino Tromino Tiling](https://github.com/MananKGarg/Placements/blob/main/Leetcode%20Solutions/790.%20Domino%20Tromino%20Tiling.pdf)
+
+### Arrays
+
+- [ ] [169. Majority Element](https://github.com/MananKGarg/Placements/blob/main/Leetcode%20Solutions/169.%20Majority%20Element.pdf)
+
+
+
