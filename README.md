@@ -7,4 +7,4 @@
 
 ### Dynamic Programming
 
-- [ ] [Domino Tromino Tiling](https://github.com/MananKGarg/Placements/blob/main/Leetcode%20Solutions/790.%20Domino%20Tromino%20Tiling.pdf)
+- [ ] [790. Domino Tromino Tiling](https://github.com/MananKGarg/Placements/blob/main/Leetcode%20Solutions/790.%20Domino%20Tromino%20Tiling.pdf)
