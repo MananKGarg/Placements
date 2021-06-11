@@ -15,5 +15,6 @@
 - [ ] [169. Majority Element](https://github.com/MananKGarg/Placements/blob/main/Leetcode%20Solutions/169.%20Majority%20Element.pdf)
 - [ ] [1. Two Sum](https://github.com/MananKGarg/Placements/blob/main/Leetcode%20Solutions/1.%20Two%20Sum.pdf)
 - [ ] [26.Remove Duplicates from sorted array](https://github.com/MananKGarg/Placements/blob/main/Leetcode%20Solutions/26.Remove%20Duplicates%20from%20sorted%20array.pdf)
+- [ ] [189. Rotate Array](https://github.com/MananKGarg/Placements/blob/main/Leetcode%20Solutions/189.%20Rotate%20Array.pdf)
 
 
