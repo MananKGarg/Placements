@@ -18,5 +18,6 @@
 - [ ] [189. Rotate Array](https://github.com/MananKGarg/Placements/blob/main/Leetcode%20Solutions/189.%20Rotate%20Array.pdf)
 - [ ] [136. Single Number](https://github.com/MananKGarg/Placements/blob/main/Leetcode%20Solutions/136.%20Single%20Number.pdf)
 - [ ] [Contains Duplicate](https://github.com/MananKGarg/Placements/blob/main/Leetcode%20Solutions/217.%20Contains%20Duplicate.pdf)
+- [ ] [53. Maximum Subarray](https://github.com/MananKGarg/Placements/blob/main/Leetcode%20Solutions/53.%20Maximum%20Subarray.pdf)
 
 
