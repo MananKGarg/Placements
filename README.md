@@ -4,6 +4,7 @@
 
 * Leetcode Solutions below
 * [Bit Manipulation complete](https://leetcode.com/discuss/study-guide/1151183/TIPS-or-HACKS-WHICH-YOU-CAN'T-IGNORE-AS-A-CODER)
+* [Dynamic Programming Patterns](https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns)
 
 ### Trees
 
