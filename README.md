@@ -10,6 +10,8 @@
 ### Trees
 
 - [ ] [144. Binary Tree Preorder Traversal](https://github.com/MananKGarg/Placements/blob/main/Leetcode%20Solutions/144.%20Binary%20Tree%20Preorder%20Traversal.pdf)
+- [ ] [94. Binary Tree Inorder Traversal](https://github.com/MananKGarg/Placements/blob/main/Leetcode%20Solutions/94.%20Binary%20tree%20inorder%20traversal.pdf)
+- [ ] [98. Validate BST](https://github.com/MananKGarg/Placements/blob/main/Leetcode%20Solutions/98.%20Validate%20BST.pdf)
 
 ### Dynamic Programming
 
