@@ -1,5 +1,9 @@
 # Placements
 
+## Resources
+
+* Leetcode Solutions below
+* [Bit Manipulation complete](https://leetcode.com/discuss/study-guide/1151183/TIPS-or-HACKS-WHICH-YOU-CAN'T-IGNORE-AS-A-CODER)
 
 ### Trees
 
