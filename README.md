@@ -19,5 +19,11 @@
 - [ ] [136. Single Number](https://github.com/MananKGarg/Placements/blob/main/Leetcode%20Solutions/136.%20Single%20Number.pdf)
 - [ ] [Contains Duplicate](https://github.com/MananKGarg/Placements/blob/main/Leetcode%20Solutions/217.%20Contains%20Duplicate.pdf)
 - [ ] [53. Maximum Subarray](https://github.com/MananKGarg/Placements/blob/main/Leetcode%20Solutions/53.%20Maximum%20Subarray.pdf)
+- [ ] [283. Move Zeros](https://github.com/MananKGarg/Placements/blob/main/Leetcode%20Solutions/283.%20Move%20Zeros.pdf)
+
+### Miscellaneous
+
+- [ ] [202. Happy Number](https://github.com/MananKGarg/Placements/blob/main/Leetcode%20Solutions/202.%20Happy%20Number.pdf)
+
 
 
