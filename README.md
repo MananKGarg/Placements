@@ -17,6 +17,7 @@
 
 - [ ] [790. Domino Tromino Tiling](https://github.com/MananKGarg/Placements/blob/main/Leetcode%20Solutions/790.%20Domino%20Tromino%20Tiling.pdf)
 - [ ] [70. Climbing Stairs](https://github.com/MananKGarg/Placements/blob/main/Leetcode%20Solutions/70.%20Climbing%20Stairs.pdf)
+- [ ] [483. Minimum cost for tickets](https://github.com/MananKGarg/Placements/blob/main/Leetcode%20Solutions/483.%20Minimum%20cost%20for%20tickets.pdf)
 
 ### Arrays
 
@@ -32,6 +33,7 @@
 ### Miscellaneous
 
 - [ ] [202. Happy Number](https://github.com/MananKGarg/Placements/blob/main/Leetcode%20Solutions/202.%20Happy%20Number.pdf)
+- [ ] [1465. max area of a piece of cake after horizontal and vertical cuts](https://github.com/MananKGarg/Placements/blob/main/Leetcode%20Solutions/1465.%20max%20area%20of%20a%20piece%20of%20cake%20after%20horizontal%20and%20vertical%20cuts.pdf)
 
 
 
