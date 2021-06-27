@@ -9,6 +9,10 @@
 * [DFS (Leetcode Patterns 1)](https://medium.com/leetcode-patterns/leetcode-pattern-1-bfs-dfs-25-of-the-problems-part-1-519450a84353)
 * [Backtracking Blueprint](https://medium.com/analytics-vidhya/the-blueprint-to-solve-any-backtracking-problem-b3640a3dcbd7)
 
+### Backtracking
+
+- [ ] [78. Subsets](https://github.com/MananKGarg/Placements/blob/main/Leetcode%20Solutions/78.%20Subsets.pdf)
+
 ### Trees
 
 - [ ] [144. Binary Tree Preorder Traversal](https://github.com/MananKGarg/Placements/blob/main/Leetcode%20Solutions/144.%20Binary%20Tree%20Preorder%20Traversal.pdf)
@@ -20,6 +24,7 @@
 - [ ] [790. Domino Tromino Tiling](https://github.com/MananKGarg/Placements/blob/main/Leetcode%20Solutions/790.%20Domino%20Tromino%20Tiling.pdf)
 - [ ] [70. Climbing Stairs](https://github.com/MananKGarg/Placements/blob/main/Leetcode%20Solutions/70.%20Climbing%20Stairs.pdf)
 - [ ] [483. Minimum cost for tickets](https://github.com/MananKGarg/Placements/blob/main/Leetcode%20Solutions/483.%20Minimum%20cost%20for%20tickets.pdf)
+- [ ] [300. Longest Increasing Subsequence](https://github.com/MananKGarg/Placements/blob/main/Leetcode%20Solutions/300.%20Longest%20Increasing%20Subsequence.pdf)
 
 ### Arrays
 
