@@ -12,6 +12,7 @@
 ### Backtracking
 
 - [ ] [78. Subsets](https://github.com/MananKGarg/Placements/blob/main/Leetcode%20Solutions/78.%20Subsets.pdf)
+- [ ] [46. Permutations](https://github.com/MananKGarg/Placements/blob/main/Leetcode%20Solutions/46.%20Permutations.pdf)
 
 ### Trees
 
