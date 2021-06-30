@@ -2,7 +2,7 @@
 
 ## Resources
 
-* Leetcode Solutions below
+* [Leetcode Important Problems Solutions](https://github.com/MananKGarg/Placements/blob/main/LeetCode%20Important%20Problem%20Solutions.md)
 * [Bit Manipulation complete](https://leetcode.com/discuss/study-guide/1151183/TIPS-or-HACKS-WHICH-YOU-CAN'T-IGNORE-AS-A-CODER)
 * [Dynamic Programming Patterns](https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns)
 * [Iterative Traversal on Trees csgator (Leetcode Patterns 0)](https://medium.com/leetcode-patterns/leetcode-pattern-0-iterative-traversals-on-trees-d373568eb0ec)
