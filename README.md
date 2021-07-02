@@ -2,7 +2,9 @@
 
 ## Resources Made
 
-* [Leetcode Important Problems Solutions](https://github.com/MananKGarg/Placements/blob/main/LeetCode%20Important%20Problem%20Solutions.md)
+* [Leetcode Important Problems Handwritten Solutions with Explaination](https://github.com/MananKGarg/Placements/blob/main/LeetCode%20Important%20Problem%20Solutions.md)
+* [Leetcode Important Problems Solutions Code]()
+* [CSES Problemset Solutions](https://github.com/MananKGarg/Placements/tree/main/CSES%20Problem%20Set)
 
 ## Important Articles 
 
