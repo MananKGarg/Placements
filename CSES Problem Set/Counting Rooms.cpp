@@ -1,6 +1,6 @@
 /*
 This is same as the number of islands problem on Leetcode. Just apply a Depth first search for area of a room. If it is > 0, increase the count. Don't forget to mark
-visited cells. Beauty of this problem is in it's implementation.
+visited cells. Beauty of this problem is in it's implementation. Go through the code and it will be clear.
 */
 
 #include <bits/stdc++.h>
