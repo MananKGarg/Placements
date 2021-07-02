@@ -1,19 +1,18 @@
+/*
+Make a set and return it's size
+*/
 #include <bits/stdc++.h>
 using namespace std;
 typedef long long ll;
-
+ 
 int main() {
     ll n;
     cin >> n;
-    vector <ll> v;
+    set <ll> a;
     for(ll i = 0; i < n; i++){
         ll entry;
         cin >> entry;
-        v.push_back(entry);
-    }
-    set <ll> a;
-    for(ll x:v){
-        a.insert(x);
+        a.insert(entry);
     }
     cout << a.size();
 }
