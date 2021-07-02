@@ -1,3 +1,7 @@
+/*
+Trailing zeros = floor(n/5) + floor(n/25) + floor(n/125) + ...
+*/
+
 #include <bits/stdc++.h>
 using namespace std;
 typedef long long ll;
