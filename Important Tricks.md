@@ -11,7 +11,7 @@
 
 3. ### Confirm whether a tree is a binary tree or a binary search tree.
 
-* Read the problem carefully and note whether the given tree is a binary tree or a binary search tree. If in an interview, confirm this with the interviewer.
+* Read the problem carefully and note whether the given tree is a binary tree or a binary search tree. If in an interview, confirm this with the interviewer. Same goes for balanced or unbalanced trees.
 
  
 
