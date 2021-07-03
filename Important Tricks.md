@@ -9,6 +9,10 @@
 
 * In DFS, BFS, backtracking problems, always pass the matrix in recursive function by reference and figure out a way to manage that. Passing without reference would almost always result in TLE.
 
+3. ### Confirm whether a tree is a binary tree or a binary search tree.
+
+* Read the problem carefully and note whether the given tree is a binary tree or a binary search tree. If in an interview, confirm this with the interviewer.
+
  
 
 
