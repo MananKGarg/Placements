@@ -10,6 +10,7 @@
 - [ ] [144. Binary Tree Preorder Traversal](https://github.com/MananKGarg/Placements/blob/main/Leetcode%20Solutions/144.%20Binary%20Tree%20Preorder%20Traversal.pdf)
 - [ ] [94. Binary Tree Inorder Traversal](https://github.com/MananKGarg/Placements/blob/main/Leetcode%20Solutions/94.%20Binary%20tree%20inorder%20traversal.pdf)
 - [ ] [98. Validate BST](https://github.com/MananKGarg/Placements/blob/main/Leetcode%20Solutions/98.%20Validate%20BST.pdf)
+- [ ] [Construct Binary Tree from Preorder and Inorder Traversal](https://github.com/MananKGarg/Placements/blob/main/Leetcode%20Solutions/105.%20Construct%20Binary%20tree%20from%20preorder%20and%20inorder%20traversal.pdf)
 
 ### Dynamic Programming
 
@@ -28,6 +29,10 @@
 - [ ] [Contains Duplicate](https://github.com/MananKGarg/Placements/blob/main/Leetcode%20Solutions/217.%20Contains%20Duplicate.pdf)
 - [ ] [53. Maximum Subarray](https://github.com/MananKGarg/Placements/blob/main/Leetcode%20Solutions/53.%20Maximum%20Subarray.pdf)
 - [ ] [283. Move Zeros](https://github.com/MananKGarg/Placements/blob/main/Leetcode%20Solutions/283.%20Move%20Zeros.pdf)
+
+### Graphs
+
+- [ ] [Number of Provinces (Connected Components in an undirected graph)](https://github.com/MananKGarg/Placements/blob/main/Leetcode%20Solutions/547.%20Number%20of%20Provinces.pdf)_
 
 ### Miscellaneous
 
