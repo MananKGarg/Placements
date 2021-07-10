@@ -1,0 +1,5 @@
+### 2 - Edge Connected Graph
+
+* A graph is called two edge connected if it remains connected even after removal of any one edge.
+* 2 - edge connected graphs have no bridges.
+* Bridges are referred to as edges which if removed will make a graph disconnected.
