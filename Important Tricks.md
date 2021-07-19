@@ -13,6 +13,8 @@
 
 * Read the problem carefully and note whether the given tree is a binary tree or a binary search tree. If in an interview, confirm this with the interviewer. Same goes for balanced or unbalanced trees.
 
+4. ### Inorder Traversal of BST is a sorted array
+
  
 
 
