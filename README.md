@@ -2,6 +2,7 @@
 
 ## Resources Made
 
+* [Leetcode Problems Sheet](https://docs.google.com/spreadsheets/d/1VP7m4yukynm9n7CKWyjdATEvgbfOij6G_ZFPl2hDggc/edit?usp=sharing)
 * [Leetcode Important Problems Handwritten Solutions with Explaination](https://github.com/MananKGarg/Placements/blob/main/LeetCode%20Important%20Problem%20Solutions.md)
 * [Leetcode Important Problems Solutions Code]()
 * [CSES Problemset Solutions](https://github.com/MananKGarg/Placements/tree/main/CSES%20Problem%20Set)
