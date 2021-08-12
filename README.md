@@ -2,6 +2,7 @@
 
 ## Resources Made
 
+* [GFG Must Do Coding Questions Sheet](https://docs.google.com/spreadsheets/d/1bhcd34jQM3Pg6Bvr4vqstiIj7qwLGH7X4mD_3x7Qxw8/edit?usp=sharing)
 * [Leetcode Problems Sheet](https://docs.google.com/spreadsheets/d/1VP7m4yukynm9n7CKWyjdATEvgbfOij6G_ZFPl2hDggc/edit?usp=sharing)
 * [Leetcode Important Problems Handwritten Solutions with Explaination](https://github.com/MananKGarg/Placements/blob/main/LeetCode%20Important%20Problem%20Solutions.md)
 * [Leetcode Important Problems Solutions Code]()
